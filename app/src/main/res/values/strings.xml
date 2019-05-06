@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidInternExercise</string>
+
+    <string-array name="airline_list">
+
+
+    </string-array>
+</resources>
